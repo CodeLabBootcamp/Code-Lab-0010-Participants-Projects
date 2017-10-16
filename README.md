@@ -1,4 +1,4 @@
-![Code Lab 0010](https://github.com/CodeLabBootcamp/Code-Lab-0010-Participants-Projects/media/Code%20Lab%200010.png)
+![Code Lab 0010](https://github.com/CodeLabBootcamp/Code-Lab-0010-Participants-Projects/raw/master/media/Code%20Lab%200010.png)
 
 
 # Code Lab
